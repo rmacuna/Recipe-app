@@ -127,6 +127,13 @@ h6 {
   width: 800px;
 }
 
+.macros-row {
+  list-style: none;
+  margin-top: 0.25rem;
+  display: flex;
+  column-gap: 1rem;
+}
+
 .search-button {
   position: absolute;
   right: 0;
